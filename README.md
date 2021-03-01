@@ -1,4 +1,4 @@
-# e-school-project beta
+# e-school-project 
 
 Distance Education app .
 ## Features
