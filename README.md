@@ -1,7 +1,12 @@
 # e_school_project
 
-A new Flutter project.
-
+Distance Education app .
+## Features
+  - register as teacher
+  - add students easily and mangment
+  - create exam and auto currect
+  - chat to talk to your students
+  - and more...
 ## Getting Started
 
 This project is a starting point for a Flutter application.
